@@ -1,13 +1,14 @@
 # 🐳 Docker Installation and Usage on Ubuntu 22.04
 
-#### Docker can be installed on Linux, macOS, and Windows. Below are the general steps for each platform. For the latest instructions, always refer to the official Docker documentation. 
-https://docs.docker.com/engine/install/
+##### Docker can be installed on Linux, macOS, and Windows. Below are the general steps for each platform. For the latest instructions, always refer to the official Docker documentation. 
+##### https://docs.docker.com/engine/install/
 
 ## ✅ Step-by-Step: Install Docker Engine on Ubuntu 22.04
 
-> ⚠️ **Note**: This guide is intended for use in a **test lab or virtual machine (VM)** environment.
-> It is **not recommended for production systems** without proper review.
-> The `apt update` and `apt upgrade` commands may change system packages and configurations.
+> ##### ⚠️ **Note**: This guide is intended for use in a **test lab or virtual machine (VM)** environment.
+> ##### It is **not recommended for production systems** without proper review.
+> ##### The `apt update` and `apt upgrade` commands may change system packages and configurations.
+
 
 ### 1. Update the System
 ```bash
@@ -62,5 +63,6 @@ newgrp docker
 ```bash
 docker run hello-world
 ```
-![Image](https://github.com/user-attachments/assets/7e0419c9-f1c4-4e28-92fc-766a7e628eab)
+
+![Image](https://github.com/user-attachments/assets/3abbd5c9-4610-4eb9-aa3b-f56ab72ab330)
 ---
