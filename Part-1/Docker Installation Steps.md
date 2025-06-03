@@ -5,6 +5,10 @@ https://docs.docker.com/engine/install/
 
 ## ✅ Step-by-Step: Install Docker Engine on Ubuntu 22.04
 
+> ⚠️ **Note**: This guide is intended for use in a **test lab or virtual machine (VM)** environment.
+> It is **not recommended for production systems** without proper review.
+> The `apt update` and `apt upgrade` commands may change system packages and configurations.
+
 ### 1. Update the System
 ```bash
 sudo apt update
