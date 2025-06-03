@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b102f8a-f8e9-4afd-92c5-8365b156e8a8)# 🐳 Docker Installation and Usage on Ubuntu 22.04
+# 🐳 Docker Installation and Usage on Ubuntu 22.04
 
 #### Docker can be installed on Linux, macOS, and Windows. Below are the general steps for each platform. For the latest instructions, always refer to the official Docker documentation. 
 https://docs.docker.com/engine/install/
@@ -62,4 +62,5 @@ newgrp docker
 ```bash
 docker run hello-world
 ```
+![Image](https://github.com/user-attachments/assets/7e0419c9-f1c4-4e28-92fc-766a7e628eab)
 ---
